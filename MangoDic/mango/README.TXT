@@ -1,9 +1,4 @@
-Thanh viên:
-Đặng Duy Cương          20180033
-Nguyễn Thanh Huyền      20184122
-Vũ Tuấn Đạt             20184067
 
-
-bước 1: Mở terminal, di chuyển đến MangoDictionary/mango
-bước 2: make clean ; make ; ./run
-bước 3: Trải nghiệm
+Step 1: Open terminal, move to MangoDictionary/mango
+Step 2: Run in terminal: 1. make clean ; 2. make ; 3. ./run
+Step 3: Enjoy !!!!
