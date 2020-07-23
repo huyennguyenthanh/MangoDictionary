@@ -2,6 +2,10 @@
 A small project for CAdvanced Subject in university.
 This is a simple multi-language dictionary app.
 
+Use :
+ + BTree Library.
+ + GTK+ (with Glade).
+
 All source code are in MangoDic folder. Mango is my team's name.
 In this source code, there are two folders.
 + The Data folder includes code which translate from .txt to file .btree
